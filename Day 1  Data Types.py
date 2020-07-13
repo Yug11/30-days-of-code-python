@@ -1,4 +1,6 @@
-
+i = 4
+d = 4.0
+s = 'HackerRank '
 
 e = int(input())
 f = float(input())
